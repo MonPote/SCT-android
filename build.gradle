@@ -16,6 +16,7 @@ apply plugin: 'com.android.application'
 
 dependencies {
     compile 'com.amazonaws:aws-android-sdk-iot:2.2.+'
+    compile 'com.jjoe64:graphview:4.2.1'
 }
 
 android {
